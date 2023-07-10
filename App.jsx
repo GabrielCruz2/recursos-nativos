@@ -1,10 +1,10 @@
 import { StyleSheet, View } from 'react-native';
-import DeviceInfo from '../screens/deviceinfo';
+import DeviceInfo from './screens/DeviceInfo';
 
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: '#fff',
+    backgroundColor: 'black',
     alignItems: 'center',
     justifyContent: 'center',
   },
